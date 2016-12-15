@@ -145,11 +145,11 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-    background-color:#00bbde;
-    border-color:#00bbde;
+    background-color:#6c8095;
+    border-color:#6c8095;
 }
 
-button.link {
+/*button.link {
     font-family:'museo-sans-rounded', sans-serif;
     font-weight:700;
     font-size: 18px;
@@ -161,10 +161,10 @@ button.link {
 }
 
 button.link:hover{
-    border-bottom: 1px solid #00bbde;
-    color:#61AEE0;
+    border-bottom: 1px solid #6c8095;
+    color:#6c8095;
     cursor:pointer;
-}
+}*/
 
 label {
     color:#00bbde;
