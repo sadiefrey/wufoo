@@ -1,11 +1,11 @@
 /* Required Asterisk */
 form span.req {
-    color: #6bc9f2 !important;
+    color: #00bbde !important;
 }
 
 /* Question Title Color When Selected */
 .wufoo li.focused label.desc, .wufoo li.focused legend.desc, .wufoo li.focused div, .wufoo li.focused span, .wufoo li.focused div label, .wufoo li.focused span label, .safari .wufoo li.focused input.file {
-    color: #0e6c9a;
+    color: #00bbde;
 }
 
 
@@ -77,7 +77,7 @@ form li {
 }
 
 .wufoo li.focused label.desc, .wufoo li.focused legend.desc, .wufoo li.focused div, .wufoo li.focused span, .wufoo li.focused div label, .wufoo li.focused span label, .safari .wufoo li.focused input.file {
-    color: #2a73a8;
+    color: #00bbde;
 }
 
 .wufoo li div, .wufoo li span, .wufoo li div label, .wufoo li span label {
@@ -133,8 +133,8 @@ textarea.textarea {
 
 
 input[type=submit] {
-    background-color:#5d514e;
-    border: 5px solid #5d514e;
+    background-color:#00bbde;
+    border: 5px solid #00bbde;
     border-radius:7px;
     padding:10px 15px;
     font-family:'museo-sans-rounded', sans-serif;
@@ -145,8 +145,8 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-    background-color:#4d423f;
-    border-color:#4d423f;
+    background-color:#00bbde;
+    border-color:#00bbde;
 }
 
 button.link {
@@ -154,20 +154,20 @@ button.link {
     font-weight:700;
     font-size: 18px;
     text-decoration:none;
-    border-bottom: 1px solid #5d514e;
-    color:#5d514e;
+    border-bottom: 1px solid #00bbde;
+    color:#00bbde;
     margin-left:20px;
     cursor:pointer;
 }
 
 button.link:hover{
-    border-bottom: 1px solid #61AEE0;
+    border-bottom: 1px solid #00bbde;
     color:#61AEE0;
     cursor:pointer;
 }
 
 label {
-    color:#5d514e;
+    color:#00bbde;
 }
 
 /* Right-align logo
