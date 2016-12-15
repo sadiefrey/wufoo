@@ -8,6 +8,9 @@ form span.req {
     color: #00bbde;
 }
 
+.wufoo .info div{
+line-height:1.2em;
+}
 
 input.text {
     border: 1px solid #ccc;
