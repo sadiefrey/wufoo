@@ -1,0 +1,183 @@
+/* Required Asterisk */
+form span.req {
+    color: #7fc241 !important;
+}
+
+/* Question Title Color When Selected */
+.wufoo li.focused label.desc, .wufoo li.focused legend.desc, .wufoo li.focused div, .wufoo li.focused span,
+.wufoo li.focused div label, .wufoo li.focused span label, .safari .wufoo li.focused input.file {
+color: #333333 !important;
+}
+
+
+.wufoo .info div{
+line-height:1.5em;
+}
+
+input.text {
+    border: 1px solid #ccc;
+    background: #fff;
+}
+
+input.text, select.select {
+    border: 1px solid #ccc;
+    background: #fff;
+}
+
+textarea.field {
+    border: 1px solid #ccc;
+    background: #fff;
+}
+
+
+h1#logo {
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px 15px 0 0;
+}
+
+
+div#container{
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px
+}
+
+/*
+label.desc, legend.desc {
+	text-transform:uppercase;
+	letter-spacing:1px;
+}
+*/
+
+.wufoo label.choice {
+	color: #333333; }
+	
+label {
+	color:#333333;}
+
+
+form li {
+	padding: 15px 0 15px 0;}
+	
+form li.buttons {
+	padding: 20px 0 7px 10px; }
+		
+form.wufoo {
+    margin: 30px 30px 0 30px;
+	padding-bottom: 30px;
+}
+	
+.info {
+    margin: 0 0 0 0;
+    padding-bottom:25px !important;
+}
+
+.info h2 {
+    margin: 0 0 20px 0;
+}
+	
+form li {
+    padding: 12px;
+}
+
+.wufoo li.focused label.desc, .wufoo li.focused legend.desc, .wufoo li.focused div, .wufoo li.focused span, .wufoo li.focused div label, .wufoo li.focused span label, .safari .wufoo li.focused input.file {
+    color: #00bbde;
+}
+
+.wufoo li div, .wufoo li span, .wufoo li div label, .wufoo li span label {
+    color: #333333;
+}
+
+label.desc, legend.desc {
+    padding: 0 0 7px 0;
+}
+
+element.style {
+    margin: 0px;
+    width: 546px;
+}
+
+.wufoo input.text, .wufoo textarea.textarea, .wufoo input.file, .wufoo select.select {
+    font-size: 130%;
+}
+
+input.text, input.search, input.file, textarea.textarea, select.select {
+    padding: 5px;
+}
+
+.wufoo label.choice {
+    font-size: 130%;
+}
+
+.safari .wufoo select.select {
+    font-size: 130% !important;
+}
+    
+form li.section h3 {
+    margin-top:20px;
+}
+
+    
+form li.section div {
+
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+form li.section {
+
+    padding-top: 0 !important;
+    margin-top: -5px !important;
+}
+    
+textarea.textarea {
+    min-width: 98% !important;
+    max-width: 98% !important;
+}
+
+
+input[type=submit] {
+    background-color:#7fc241;
+    border: 5px solid #7fc241;
+    border-radius:7px;
+    padding:10px 15px;
+    font-family:'museo-sans-rounded', sans-serif;
+    font-size:18px !important;
+    color:white;
+    text-transform:uppercase;
+    letter-spacing:1px;
+}
+
+input[type=submit]:hover {
+    background-color:#6bb540;
+    border-color:#6bb540;
+}
+
+/*button.link {
+    font-family:'museo-sans-rounded', sans-serif;
+    font-weight:700;
+    font-size: 18px;
+    text-decoration:none;
+    border-bottom: 1px solid #00bbde;
+    color:#00bbde;
+    margin-left:20px;
+    cursor:pointer;
+}
+
+button.link:hover{
+    border-bottom: 1px solid #6c8095;
+    color:#6c8095;
+    cursor:pointer;
+}*/
+
+label {
+    color:#00bbde;
+}
+
+/* Right-align logo
+
+#logo a{
+    background: url('https://35b4503f3db4247e0ceb377e90d1de08330f5b9f.googledrive.com/host/0B347CVN_5Id-fnQxZ2lPLWZBM1pXTTZXaDZnOGN1dlYycE5zZHVqYUE1MzZKT0F2cTFNN0k/givefeedback_libraryname-01.png') no-repeat right top !important;
+}
+*/
