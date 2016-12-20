@@ -3,8 +3,9 @@ form span.req {
     color: #00bbde !important;
 }
 
-Question Title Color When Selected
-.wufoo li.focused label.desc, .wufoo li.focused legend.desc, .wufoo li.focused div, .wufoo li.focused span, .wufoo li.focused div label, .wufoo li.focused span label, .safari .wufoo li.focused input.file {
+/* Question Title Color When Selected */
+.wufoo li.focused label.desc, .wufoo li.focused legend.desc, .wufoo li.focused div, .wufoo li.focused span,
+.wufoo li.focused div label, .wufoo li.focused span label, .safari .wufoo li.focused input.file {
 color: #333333 !important;
 }
 
