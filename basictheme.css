@@ -5,7 +5,7 @@ form span.req {
 
 /* Question Title Color When Selected */
 .wufoo li.focused label.desc, .wufoo li.focused legend.desc, .wufoo li.focused div, .wufoo li.focused span, .wufoo li.focused div label, .wufoo li.focused span label, .safari .wufoo li.focused input.file {
-    color: #00bbde;
+    color: #333333;
 }
 
 .wufoo .info div{
@@ -148,8 +148,8 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-    background-color:#6c8095;
-    border-color:#6c8095;
+    background-color:#00abcc;
+    border-color:#00abcc;
 }
 
 /*button.link {
