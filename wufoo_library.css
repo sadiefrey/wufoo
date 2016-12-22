@@ -175,9 +175,6 @@ label {
     color:#00bbde;
 }
 
-/* Right-align logo
-
 #logo a{
-    background: url('https://35b4503f3db4247e0ceb377e90d1de08330f5b9f.googledrive.com/host/0B347CVN_5Id-fnQxZ2lPLWZBM1pXTTZXaDZnOGN1dlYycE5zZHVqYUE1MzZKT0F2cTFNN0k/givefeedback_libraryname-01.png') no-repeat right top !important;
+    background-position:center !important;
 }
-*/
